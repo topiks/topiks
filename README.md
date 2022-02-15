@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Taufik Hidayat
 
 I'm an electrical engineer student who loves to create and share useful projects about robotics technology
-currently, i'm active contributing as electrical engineer at [IRIS Robotic Team](http://iris.its.ac.id/)
+currently, i'm active contributing at [IRIS Robotic Team](http://iris.its.ac.id/)
 
 <p align="left">
 <a href="https://github.com/dimasmds">
